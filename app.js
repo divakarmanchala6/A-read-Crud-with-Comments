@@ -122,3 +122,6 @@ const App = () => {
 };
 
 export default App;
+{/* 
+i am looking for organisation to grow together 
+*/}
